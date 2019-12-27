@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/globe0208/pollaroid/_apis/build/status/FElysian.pipelines-java?branchName=master)](https://dev.azure.com/globe0208/pollaroid/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
